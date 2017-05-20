@@ -1,98 +1,132 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-
-    <title>SB Admin - Bootstrap Admin Template</title>
-
-    <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom CSS -->
-    <link href="css/sb-admin.css" rel="stylesheet">
-
-    <!-- Morris Charts CSS -->
-    <link href="css/plugins/morris.css" rel="stylesheet">
-
-    <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
-</head>
-
-<body>
-
-    <div id="wrapper">
 
 
-	<!-- Navigation -->
-		<?php  
-			include("header.php");
-		?>
+
+
+<?php
+
+include ("header/header.php");
+include ("menu/menu.php");
+?>
+
+
+
+<div id="wrapper"> 	
         <div id="page-wrapper">
-
             <div class="container-fluid">
-		<!-- -->
-                <br>
-				<br>
-				<br>
-				<br>
-				
-                <br>
-				<br>
-				<br>
-				
-				<button type="submit" value="Gerar"
-				<div id="output">
-				
-				</div>
-				
-		<?php
-			$qrcode = ‘http://chart.apis.google.com/chart?cht=qr&chl=’.$_POST[‘conteudo’].’&chs=’.$_POST[‘tam’].’x’.$_POST[‘tam’];
-				echo “<img src=’$qrcode’/>”;
-		?>
-				
 
-		
-                <br>
-				<br>
-				<br>
-				<br>
-				
-                <br>
-				<br>
-				<br>
-				<br>
-				
-                <br>
-				<br>
-				<br>
-				<br>
-                <br>
-				<br>
-				<br>
-				<br>
+                <!-- Page Heading -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h3 class="page-header">
+							QRCode
+                        </h3>
+                        <ol class="breadcrumb">
+
+                            <li class="active">
+                                <i class="fa fa-table"></i> Inicio
+                            </li>
+                        </ol>
+                    </div>
+                  <label style="" >  <form action="index.php" method="post">
+                        <input type="submit" value="Ativar/Desativar" name="active">
+                    </form><hr/></label>
+                </div >
+                <div align="center">
+                <?php
+
+                //função do botao de ativar ou desativar
+                if (isset($_POST['active'])){
+
+
+                //caso o botao seja acionado com a session ativa
+                //ele desativa e vice e versa
+                if ($_SESSION['active'] == 'on') {
+                    $_SESSION['active'] ='off';
+                    echo '<META HTTP-EQUIV="REFRESH" CONTENT="7000">';
+
+                }
+                else{
+                    $_SESSION['active'] ='on';
+                   echo '<META HTTP-EQUIV="REFRESH" CONTENT="7">';
+
+                }
+                }
+
+                //ativa execução e criação de qr code
+                if ($_SESSION['active'] == 'on'){
+
+                    //atualização da pagina a cada 7 segundos
+                echo '<META HTTP-EQUIV="REFRESH" CONTENT="7">';
+
+
+                //pega o id do usuario logado
+                $id   = $_SESSION['nome'];
+
+
+                    //declara data online
+                date_default_timezone_set('America/Sao_Paulo');
+                $date = date('d/m/y-H:i:s');
+
+                $data = date('d/m/y');
+
+                $hora = date('H:i:s');
+
+                //string do Qr Code
+                $string = $_SESSION['nome'].$date.$_SESSION['nomeEvento'].$id;
+
+
+                ///////////////////////////////////////////Criado do qr Code///////////////////////////////////////////////
+
+                //set it to writable location, a place for temp generated PNG files
+                $PNG_TEMP_DIR = dirname(__FILE__).DIRECTORY_SEPARATOR.'temp'.DIRECTORY_SEPARATOR;
+
+                //seleciona pasta para
+                //exporta a imagem para a pasta de arquivos temporarios
+                //essa imagem e executada no html
+                $PNG_WEB_DIR = 'tempp/';
+
+                //chama função de criação
+                include "Gerador Qr/qrlib.php";
+
+                //ofcourse we need rights to create temp dir
+                if (!file_exists($PNG_TEMP_DIR))
+                    mkdir($PNG_TEMP_DIR);
+
+                $filename = $PNG_TEMP_DIR.'test.png';
+
+               // niveis da correção de erro('L','M','Q','H')
+                    $errorCorrectionLevel = "m";
+
+                //define tamanho do qr code
+                   $matrixPointSize = 10;
+                //string de saida do qr code
+                    $data = base64_encode($string);
+
+                    $_SESSION['dell']="";
+                    $_SESSION['dell']=base64_encode($data.'|'.$errorCorrectionLevel.'|'.$matrixPointSize).'.png';
+
+                    // user data
+                    $filename = $PNG_TEMP_DIR.base64_encode($data.'|'.$errorCorrectionLevel.'|'.$matrixPointSize).'.png';
+                    QRcode::png($data, $filename, $errorCorrectionLevel, $matrixPointSize, 2);
+
+                //display generated file
+                echo '<img src="'.$PNG_WEB_DIR.basename($filename).'" /><hr/>';
+                echo "Codificado =  ".$data."<br>";
+                echo "Decodificado = ".base64_decode($data);
+
+                //executa a limpeza do arquivo
+
+                echo $_SESSION['dell'];
+                   }  ?>
+                </div>
             </div>
-            <!-- /.container-fluid -->
-
         </div>
-        <!-- /#page-wrapper -->
 
-    </div>
-    <!-- /#wrapper -->
 
+
+
+</div>
+	
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 
@@ -103,7 +137,6 @@
     <script src="js/plugins/morris/raphael.min.js"></script>
     <script src="js/plugins/morris/morris.min.js"></script>
     <script src="js/plugins/morris/morris-data.js"></script>
+<?php include("header/bottom.php") ?>
 
-</body>
 
-</html>
