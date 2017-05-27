@@ -4,11 +4,16 @@
 
     public class Model
     {
+        public Model()
+        {
+            QRs = new HashSet<QR.Model>();
+            Espacos = new HashSet<Espaco.Model>();
+            Tempos = new HashSet<Tempo.Model > ();
+            Presencas = new HashSet<Presenca.Model>();
+        }
         public string Descricao { get; set; }
-        public Usuario.Model Usuario { get; set; }
-        public ICollection<Usuario.Model> Usuarios { get; set; }
         public ICollection<QR.Model> QRs { get; set; }
-        public Espaco.Model Espaco { get; set; }
+        public ICollection<Espaco.Model> Espacos { get; set; }
         public ICollection<Tempo.Model> Tempos { get; set; }
         public ICollection<Presenca.Model> Presencas { get; set; }
     }
