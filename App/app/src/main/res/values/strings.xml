@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RA </string>
+    <string name="btn_Entrar">Entrar</string>
+    <string name="RA">Entre com o RA:</string>
+    <string name="SiteFabricaApp">Fabricaappu9.com.br</string>
+    <string name="Eventos">Eventos em seu RA: </string>
+    <string name="title_activity_tela_sobre">Sobre</string>
+
+</resources>
