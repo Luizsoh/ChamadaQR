@@ -1,84 +1,9 @@
-﻿@model ResctrictedAccess.Web.Controllers.ControleEvento
-@{
-    ViewData["Title"] = "ChamadaQR";
-    string str = "data:image/png;base64," + Model.QRCodeStringEmBase64;
-}
-<style>
-    .row-top {
-        padding-top: 5%;
-    }
-</style>
-<div class="text-center">
-    <div class="row row-top">
-        <div class="col-sm-4 col-sm-offset-4">
-            <img src="@str" class="img-thumbnail center-block" />
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-4 col-sm-offset-4">
-            <div class="form-group">
-                <input type="button" id="simularLeitura" value="Simular Leitura" class="btn btn-primary btn-group-justified" />
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm-4 col-sm-offset-4">
-            <h3 class="text-info"></h3>
-        </div>
-    </div>
-</div>
-@section scripts
+﻿@model ResctrictedAccess.Web.Models.Eventos.Index.ViewModel
+<h2>Eventos</h2>
+
+@foreach(var item in Model.Eventos)
 {
-    <script>
-        $(function () {
-            var identificadorUnico = @Model.Alvo.IdentificadorUnico;
-            var h3 = $('h3');
-            var botao = $('#simularLeitura');
-            h3.imprimir = function(valor){
-                $element = $(this);
-                $element.text(valor);
-                $element.fadeIn(1);
-                $element.fadeOut(1000);
-            };
-            var img = $('img');
-
-            var ler = function(e){
-                botao.prop('disabled', true);
-                botao.addClass('disabled');
-                setTimeout(function(e){
-                    e.target.removeClass('disabled');
-                    e.target.prop('disabled',false);
-                },1001,{ target: botao});
-
-                var url = '/Home/Ler';
-                $.post(url, {Id: identificadorUnico }, function(data){
-                    h3.imprimir(data);
-                });
-            }
-
-            botao.on('click',ler);
-
-            var limpar = function(){
-                var url = '/Home/Limpar';
-                $.post(url, {}, function(data){
-                    h3.imprimir(data);
-                });
-            }
-            setInterval(limpar, 60000 * 2);
-
-            var sincronizar = function () {
-                var url = '/Home/Sincronizar';
-                $.post(url, {Id: identificadorUnico }, function(data){
-                    if(data.Model){
-                        identificadorUnico = data.Model.Alvo.IdentificadorUnico;
-                        img.attr('src', 'data:image/png;base64,' + data.Model.QRCodeStringEmBase64);
-
-                    }
-                    h3.imprimir(data.Mensagem);
-                });
-            };
-
-            setInterval(sincronizar, 10000);
-        });
-    </script>
+    <div>
+        @item.ToString()
+    </div>
 }

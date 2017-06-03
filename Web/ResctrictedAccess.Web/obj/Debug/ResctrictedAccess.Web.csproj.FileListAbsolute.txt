@@ -198,3 +198,4 @@ C:\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.Web.xml
 C:\Git\Web\ResctrictedAccess.Web\obj\Debug\ResctrictedAccess.Web.csprojResolveAssemblyReference.cache
 C:\Git\Web\ResctrictedAccess.Web\obj\Debug\ResctrictedAccess.Web.dll
 C:\Git\Web\ResctrictedAccess.Web\obj\Debug\ResctrictedAccess.Web.pdb
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\MySql.Data.Entity.EF6.dll
