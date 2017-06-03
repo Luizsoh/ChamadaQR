@@ -19,6 +19,13 @@ namespace ResctrictedAccess.Web.Controllers
 
         public static ICollection<ControleEvento> ControlesEventos { get; set; }
 
+
+        public ActionResult Banco()
+        {
+            var test = new Domain.Repository.FabricaAppRADbContext().Alunos.ToArray();
+            return Json(test);
+        }
+
         public ActionResult Index()
         {
             var controleEvento = ControleEvento.CriarNovo();

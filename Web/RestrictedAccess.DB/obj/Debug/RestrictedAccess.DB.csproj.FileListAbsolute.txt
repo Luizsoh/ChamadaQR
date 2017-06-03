@@ -1,0 +1,6 @@
+E:\Executaveis Liberados\Git\Web\RestrictedAccess.DB\bin\Debug\RestrictedAccess.DB.exe.config
+E:\Executaveis Liberados\Git\Web\RestrictedAccess.DB\bin\Debug\RestrictedAccess.DB.exe
+E:\Executaveis Liberados\Git\Web\RestrictedAccess.DB\bin\Debug\RestrictedAccess.DB.pdb
+E:\Executaveis Liberados\Git\Web\RestrictedAccess.DB\obj\Debug\RestrictedAccess.DB.csprojResolveAssemblyReference.cache
+E:\Executaveis Liberados\Git\Web\RestrictedAccess.DB\obj\Debug\RestrictedAccess.DB.exe
+E:\Executaveis Liberados\Git\Web\RestrictedAccess.DB\obj\Debug\RestrictedAccess.DB.pdb
