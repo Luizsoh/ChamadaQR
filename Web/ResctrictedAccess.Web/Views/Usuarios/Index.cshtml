@@ -1,0 +1,30 @@
+﻿@model ResctrictedAccess.Web.Models.Usuarios.Index.ViewModel
+<h2>Usuários</h2>
+@Html.ActionLink("Novo", "Create", "Usuarios")
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Código
+            </th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Usuarios)
+        {
+            <tr>
+                <td>
+                    @item.Codigo
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Detalhes", "Details", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Excluir", "Delete", new { /* id=item.PrimaryKey */ })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

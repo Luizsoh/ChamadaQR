@@ -213,6 +213,7 @@
     <Compile Include="Controllers\EventosController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\SimulacaoController.cs" />
+    <Compile Include="Controllers\UsuariosController.cs" />
     <Compile Include="Domain\Admin\Aluno.cs" />
     <Compile Include="Domain\Admin\Espaco.cs" />
     <Compile Include="Domain\Admin\Evento.cs" />
@@ -228,6 +229,8 @@
     </Compile>
     <Compile Include="Models\Eventos\Create\ViewModel.cs" />
     <Compile Include="Models\Eventos\Index\ViewModel.cs" />
+    <Compile Include="Models\Usuarios\Create\ViewModel.cs" />
+    <Compile Include="Models\Usuarios\Index\ViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -268,8 +271,11 @@
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Eventos\Index.cshtml" />
     <Content Include="Views\Simulacao\Qr.cshtml" />
+    <Content Include="Views\Eventos\Create.cshtml" />
+    <Content Include="Views\Eventos\Index.cshtml" />
+    <Content Include="Views\Usuarios\Index.cshtml" />
+    <Content Include="Views\Usuarios\Create.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

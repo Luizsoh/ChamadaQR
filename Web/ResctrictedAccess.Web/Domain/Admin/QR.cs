@@ -9,8 +9,8 @@
     {
         public int Id { get; set; }
         public string Chave { get; set; }
-        public Evento Evento { get; set; }
-        public Tempo Tempo { get; set; }
+        //public Evento Evento { get; set; }
+        //public Tempo Tempo { get; set; }
 
         internal static byte[] Criar(string texto)
         {
