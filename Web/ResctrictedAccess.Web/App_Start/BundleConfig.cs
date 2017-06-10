@@ -9,22 +9,25 @@ namespace ResctrictedAccess.Web
         public static void RegisterBundles(BundleCollection bundles)
         {
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
-                        "~/Scripts/jquery-{version}.js"));
+                        "~/tpl/vendor/jquery/jquery.js"));
 
-            bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
-                        "~/Scripts/jquery.validate*"));
-
+            
             // Use the development version of Modernizr to develop with and learn from. Then, when you're
             // ready for production, use the build tool at https://modernizr.com to pick only the tests you need.
             bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
                         "~/Scripts/modernizr-*"));
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
-                      "~/Scripts/bootstrap.js",
+                      "~/tpl/vendor/bootstrap/js/bootstrap.js",
+                      "~/tpl/dist/js/sb-admin-2.js",
+                      "~/tpl/vendor/metisMenu/metisMenu.js",
                       "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      "~/tpl/vendor/bootstrap/css/bootstrap.css",
+                      "~/tpl/vendor/font-awesome/css/font-awesome.min.css",
+                      "~/tpl/vendor/metisMenu/metisMenu.css",
+                      "~/tpl/dist/css/sb-admin-2.css",
                       "~/Content/site.css"));
         }
     }
