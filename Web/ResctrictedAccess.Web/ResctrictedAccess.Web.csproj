@@ -213,14 +213,14 @@
     <Compile Include="Controllers\EventosController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\SimulacaoController.cs" />
-    <Compile Include="Domain\Admin\Aluno\Model.cs" />
-    <Compile Include="Domain\Admin\Espaco\Model.cs" />
-    <Compile Include="Domain\Admin\Evento\Model.cs" />
-    <Compile Include="Domain\Admin\Perfil\Model.cs" />
-    <Compile Include="Domain\Admin\Presenca\Model.cs" />
-    <Compile Include="Domain\Admin\QR\Service.cs" />
-    <Compile Include="Domain\Admin\Tempo\Model.cs" />
-    <Compile Include="Domain\Admin\Usuario\Model.cs" />
+    <Compile Include="Domain\Admin\Aluno.cs" />
+    <Compile Include="Domain\Admin\Espaco.cs" />
+    <Compile Include="Domain\Admin\Evento.cs" />
+    <Compile Include="Domain\Admin\Perfil.cs" />
+    <Compile Include="Domain\Admin\Presenca.cs" />
+    <Compile Include="Domain\Admin\QR.cs" />
+    <Compile Include="Domain\Admin\Tempo.cs" />
+    <Compile Include="Domain\Admin\Usuario.cs" />
     <Compile Include="Domain\Repository\FabricaAppRADbContext.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -271,7 +271,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Domain\Admin\QrCode\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />

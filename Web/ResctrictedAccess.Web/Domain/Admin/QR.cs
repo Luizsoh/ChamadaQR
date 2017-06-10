@@ -1,14 +1,14 @@
-﻿using MessagingToolkit.QRCode.Codec;
-using System;
-using System.Drawing;
-
-namespace ResctrictedAccess.Web.Domain.Admin.QR
+﻿namespace ResctrictedAccess.Web.Domain.Admin
 {
-    public class Service
+    using MessagingToolkit.QRCode.Codec;
+    using System;
+    using System.Drawing;
+
+    public class QR
     {
         public string Chave { get; set; }
-        public Evento.Model Evento { get; set; }
-        public Tempo.Model Tempo { get; set; }
+        public Evento Evento { get; set; }
+        public Tempo Tempo { get; set; }
 
         internal static byte[] Criar(string texto)
         {

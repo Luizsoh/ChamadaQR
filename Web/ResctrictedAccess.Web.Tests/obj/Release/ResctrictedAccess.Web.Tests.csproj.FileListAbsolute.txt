@@ -123,3 +123,5 @@ C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Release\pt-BR\Microsoft.VisualStudio.
 C:\Git\Web\ResctrictedAccess.Web.Tests\obj\Release\ResctrictedAccess.Web.Tests.csprojResolveAssemblyReference.cache
 C:\Git\Web\ResctrictedAccess.Web.Tests\obj\Release\ResctrictedAccess.Web.Tests.dll
 C:\Git\Web\ResctrictedAccess.Web.Tests\obj\Release\ResctrictedAccess.Web.Tests.pdb
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web.Tests\bin\Release\EntityFramework.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web.Tests\bin\Release\EntityFramework.xml

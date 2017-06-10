@@ -291,3 +291,9 @@ C:\Git\Web\ResctrictedAccess.Web\obj\Release\ResctrictedAccess.Web.csprojResolve
 C:\Git\Web\ResctrictedAccess.Web\obj\Release\ResctrictedAccess.Web.dll
 C:\Git\Web\ResctrictedAccess.Web\obj\Release\ResctrictedAccess.Web.pdb
 C:\Git\Web\ResctrictedAccess.Web\bin\MySql.Data.Entity.EF6.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\EntityFramework.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\EntityFramework.SqlServer.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\MySql.Data.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\MySql.Data.Entity.EF6.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\EntityFramework.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\EntityFramework.SqlServer.xml

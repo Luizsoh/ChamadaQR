@@ -91,7 +91,7 @@ namespace ResctrictedAccess.Web.Controllers
             {
                 Evento evento = this;
                 string texto = evento.TranformarEmStringJSON();
-                byte[] r = Domain.Admin.QR.Service.Criar(texto);
+                byte[] r = Domain.Admin.QR.Criar(texto);
                 return r;
             }
 
