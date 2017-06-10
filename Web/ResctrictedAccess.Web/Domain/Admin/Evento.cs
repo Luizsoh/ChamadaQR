@@ -1,9 +1,11 @@
 ﻿namespace ResctrictedAccess.Web.Domain.Admin
 {
+    using ResctrictedAccess.Web.Domain.Repository;
     using System.Collections.Generic;
 
-    public class Evento
+    public class Evento : IEntity
     {
+        public int Id { get; set; }
         public string Descricao { get; set; }
         public Usuario Usuario { get; set; }
         public ICollection<Usuario> Usuarios { get; set; }

@@ -222,9 +222,11 @@
     <Compile Include="Domain\Admin\Tempo.cs" />
     <Compile Include="Domain\Admin\Usuario.cs" />
     <Compile Include="Domain\Repository\FabricaAppRADbContext.cs" />
+    <Compile Include="Domain\Repository\IEntity.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Eventos\Create\ViewModel.cs" />
     <Compile Include="Models\Eventos\Index\ViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

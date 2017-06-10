@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using ResctrictedAccess.Web.Domain.Repository;
+using System.Linq;
 using System.Web.Mvc;
 
 namespace ResctrictedAccess.Web.Controllers
@@ -7,7 +8,7 @@ namespace ResctrictedAccess.Web.Controllers
     {
         public ActionResult Index()
         {
-            using (var db = new Domain.Repository.FabricaAppRADbContext())
+            using (var db = new FabricaAppRADbContext())
                 return View(new Models.Eventos.Index.ViewModel { Eventos = db.Eventos.ToArray() });
         }
     }

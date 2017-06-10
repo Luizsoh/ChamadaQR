@@ -1,11 +1,13 @@
 ﻿namespace ResctrictedAccess.Web.Domain.Admin
 {
     using MessagingToolkit.QRCode.Codec;
+    using ResctrictedAccess.Web.Domain.Repository;
     using System;
     using System.Drawing;
 
-    public class QR
+    public class QR : IEntity
     {
+        public int Id { get; set; }
         public string Chave { get; set; }
         public Evento Evento { get; set; }
         public Tempo Tempo { get; set; }
