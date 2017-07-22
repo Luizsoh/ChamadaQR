@@ -1,0 +1,299 @@
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\ApplicationInsights.config
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\csc.exe
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\csc.exe.config
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\csc.rsp
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\csi.exe
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\csi.rsp
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\System.AppContext.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\vbc.exe
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\vbc.exe.config
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\vbc.rsp
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\VBCSCompiler.exe
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\ResctrictedAccess.Web.dll.config
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\ResctrictedAccess.Web.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\ResctrictedAccess.Web.pdb
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Antlr3.Runtime.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\MessagingToolkit.QRCode.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Microsoft.AI.Web.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Microsoft.CSharp.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Newtonsoft.Json.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.ComponentModel.DataAnnotations.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Configuration.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Data.DataSetExtensions.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Data.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Drawing.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.EnterpriseServices.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Net.Http.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Net.Http.Formatting.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Net.Http.WebRequest.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.Abstractions.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.ApplicationServices.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.DynamicData.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.Entity.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.Extensions.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.Helpers.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.Http.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.Http.WebHost.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.Mvc.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.Optimization.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.Razor.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.Routing.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.Services.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.WebPages.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.WebPages.Razor.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Xml.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Xml.Linq.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\WebGrease.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.Helpers.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.Mvc.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.Optimization.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.Razor.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.WebPages.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.WebPages.Razor.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Antlr3.Runtime.pdb
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Newtonsoft.Json.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Net.Http.Formatting.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.Http.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\System.Web.Http.WebHost.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\Microsoft.AI.Web.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\obj\Release\ResctrictedAccess.Web.csprojResolveAssemblyReference.cache
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\obj\Release\ResctrictedAccess.Web.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\obj\Release\ResctrictedAccess.Web.pdb
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\ApplicationInsights.config
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\csc.exe
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\csc.exe.config
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\csc.rsp
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\csi.exe
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\csi.rsp
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\System.AppContext.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\System.IO.FileSystem.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\vbc.exe
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\vbc.exe.config
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\vbc.rsp
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\VBCSCompiler.exe
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\ResctrictedAccess.Web.dll.config
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\ResctrictedAccess.Web.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\ResctrictedAccess.Web.pdb
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Antlr3.Runtime.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\EntityFramework.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\EntityFramework.SqlServer.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\MessagingToolkit.QRCode.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.Web.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Microsoft.ApplicationInsights.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Microsoft.CSharp.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\MySql.Data.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Newtonsoft.Json.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.ComponentModel.DataAnnotations.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Configuration.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Data.DataSetExtensions.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Data.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Drawing.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.EnterpriseServices.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Net.Http.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Net.Http.Formatting.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Net.Http.WebRequest.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.Abstractions.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.ApplicationServices.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.DynamicData.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.Entity.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.Extensions.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.Helpers.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.Http.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.Http.WebHost.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.Mvc.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.Optimization.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.Razor.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.Routing.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.Services.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.WebPages.Deployment.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.WebPages.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.WebPages.Razor.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Xml.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Xml.Linq.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\WebGrease.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\EntityFramework.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\EntityFramework.SqlServer.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.Helpers.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.Mvc.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.Optimization.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.Razor.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.WebPages.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.WebPages.Deployment.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.WebPages.Razor.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Antlr3.Runtime.pdb
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Newtonsoft.Json.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Net.Http.Formatting.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.Http.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\System.Web.Http.WebHost.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Microsoft.ApplicationInsights.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.Web.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\obj\Release\ResctrictedAccess.Web.csprojResolveAssemblyReference.cache
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\obj\Release\ResctrictedAccess.Web.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web\obj\Release\ResctrictedAccess.Web.pdb
+C:\Git\Web\ResctrictedAccess.Web\bin\ApplicationInsights.config
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\csc.exe
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\csc.exe.config
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\csc.rsp
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\csi.exe
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\csi.rsp
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\System.AppContext.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\vbc.exe
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\vbc.exe.config
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\vbc.rsp
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\VBCSCompiler.exe
+C:\Git\Web\ResctrictedAccess.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Git\Web\ResctrictedAccess.Web\bin\ResctrictedAccess.Web.dll.config
+C:\Git\Web\ResctrictedAccess.Web\bin\ResctrictedAccess.Web.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\ResctrictedAccess.Web.pdb
+C:\Git\Web\ResctrictedAccess.Web\bin\Antlr3.Runtime.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\EntityFramework.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\EntityFramework.SqlServer.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\MessagingToolkit.QRCode.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.Web.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\Microsoft.CSharp.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\MySql.Data.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\Newtonsoft.Json.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.ComponentModel.DataAnnotations.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Configuration.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Data.DataSetExtensions.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Data.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Drawing.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.EnterpriseServices.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Net.Http.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Net.Http.Formatting.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Net.Http.WebRequest.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.Abstractions.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.ApplicationServices.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.DynamicData.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.Entity.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.Extensions.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.Helpers.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.Http.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.Http.WebHost.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.Mvc.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.Optimization.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.Razor.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.Routing.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.Services.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.WebPages.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.WebPages.Razor.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Xml.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Xml.Linq.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\WebGrease.dll
+C:\Git\Web\ResctrictedAccess.Web\bin\EntityFramework.xml
+C:\Git\Web\ResctrictedAccess.Web\bin\EntityFramework.SqlServer.xml
+C:\Git\Web\ResctrictedAccess.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.Helpers.xml
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.Mvc.xml
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.Optimization.xml
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.Razor.xml
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.WebPages.xml
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.WebPages.Razor.xml
+C:\Git\Web\ResctrictedAccess.Web\bin\Antlr3.Runtime.pdb
+C:\Git\Web\ResctrictedAccess.Web\bin\Newtonsoft.Json.xml
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Net.Http.Formatting.xml
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.Http.xml
+C:\Git\Web\ResctrictedAccess.Web\bin\System.Web.Http.WebHost.xml
+C:\Git\Web\ResctrictedAccess.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Git\Web\ResctrictedAccess.Web\bin\Microsoft.AI.Web.xml
+C:\Git\Web\ResctrictedAccess.Web\obj\Release\ResctrictedAccess.Web.csprojResolveAssemblyReference.cache
+C:\Git\Web\ResctrictedAccess.Web\obj\Release\ResctrictedAccess.Web.dll
+C:\Git\Web\ResctrictedAccess.Web\obj\Release\ResctrictedAccess.Web.pdb
+C:\Git\Web\ResctrictedAccess.Web\bin\MySql.Data.Entity.EF6.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\EntityFramework.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\EntityFramework.SqlServer.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\MySql.Data.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\MySql.Data.Entity.EF6.dll
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\EntityFramework.xml
+C:\Git\FabricaAppU9\ChamadaQR\Web\ResctrictedAccess.Web\bin\EntityFramework.SqlServer.xml

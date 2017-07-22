@@ -1,0 +1,186 @@
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\csc.exe
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\csc.exe.config
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\csc.rsp
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\csi.exe
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\csi.rsp
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\System.AppContext.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\vbc.exe
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\vbc.exe.config
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\vbc.rsp
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ApplicationInsights.config
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ResctrictedAccess.Web.Tests.dll.config
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ResctrictedAccess.Web.Tests.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ResctrictedAccess.Web.Tests.pdb
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ResctrictedAccess.Web.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Helpers.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Mvc.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Razor.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.WebPages.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Optimization.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Http.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\MessagingToolkit.QRCode.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ResctrictedAccess.Web.pdb
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Helpers.xml
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Mvc.xml
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Razor.xml
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.WebPages.xml
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Optimization.xml
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Http.xml
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\obj\Debug\ResctrictedAccess.Web.Tests.csprojResolveAssemblyReference.cache
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\obj\Debug\ResctrictedAccess.Web.Tests.dll
+E:\ExecutaveisLiberados\Git\Web\ResctrictedAccess.Web.Tests\obj\Debug\ResctrictedAccess.Web.Tests.pdb
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ApplicationInsights.config
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\csc.exe
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\csc.exe.config
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\csc.rsp
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\csi.exe
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\csi.rsp
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\System.AppContext.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\vbc.exe
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\vbc.exe.config
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\vbc.rsp
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ResctrictedAccess.Web.Tests.dll.config
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ResctrictedAccess.Web.Tests.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ResctrictedAccess.Web.Tests.pdb
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ResctrictedAccess.Web.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Razor.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Http.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\MessagingToolkit.QRCode.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ResctrictedAccess.Web.pdb
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Razor.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Optimization.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Http.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\obj\Debug\ResctrictedAccess.Web.Tests.csprojResolveAssemblyReference.cache
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\obj\Debug\ResctrictedAccess.Web.Tests.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\obj\Debug\ResctrictedAccess.Web.Tests.pdb
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\EntityFramework.dll
+E:\Executaveis Liberados\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\EntityFramework.xml
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ApplicationInsights.config
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\csc.exe
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\csc.exe.config
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\csc.rsp
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\csi.exe
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\csi.rsp
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\System.AppContext.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\vbc.exe
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\vbc.exe.config
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\vbc.rsp
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ResctrictedAccess.Web.Tests.dll.config
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ResctrictedAccess.Web.Tests.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ResctrictedAccess.Web.Tests.pdb
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ResctrictedAccess.Web.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\EntityFramework.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ResctrictedAccess.Web.pdb
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\ResctrictedAccess.Web.dll.config
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\EntityFramework.xml
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Git\Web\ResctrictedAccess.Web.Tests\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\obj\Debug\ResctrictedAccess.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Git\Web\ResctrictedAccess.Web.Tests\obj\Debug\ResctrictedAccess.Web.Tests.dll
+C:\Git\Web\ResctrictedAccess.Web.Tests\obj\Debug\ResctrictedAccess.Web.Tests.pdb
